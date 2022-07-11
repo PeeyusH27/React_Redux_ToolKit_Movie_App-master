@@ -1,6 +1,6 @@
 # Movies App
 
-In this project I havce developed a react web application using React, Redux, SCSS and Omdb API.
+In this project I have developed a react web application using React, Redux, SCSS and Omdb API.
 
 Here you can get information about shows and movies which are being fetched through api calls.
 

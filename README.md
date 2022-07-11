@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Movies App
+
+In this project I havce developed a react web application using React, Redux, SCSS and Omdb API.
+
+Here you can get information about shows and movies which are being fetched through api calls.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
